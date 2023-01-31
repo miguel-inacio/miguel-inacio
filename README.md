@@ -1,10 +1,12 @@
 <h1>Miguel Inácio - Desenvolvedor Web Full Stack Jr</h1>
 
-Estudando desenvolvimento web na Trybe, no processo de transição de carreira, depois de concluir graduação em Jornalismo. Nos últimos meses, tenho estudado JavaScript, HTML, CSS, React, TypeScript e Express, além de soft skills e conceitos de metodologias ágeis.
-
-Sou muito curioso e adoro aprender. Considero a comunicação um dos meus pontos mais fortes, além do foco e do bom relacionamento em equipe.
+<p>Estudando desenvolvimento web na Trybe, no processo de transição de carreira, depois de concluir graduação em Jornalismo. Nos últimos meses, tenho estudado JavaScript, HTML, CSS, React, TypeScript e Express, além de soft skills e conceitos de metodologias ágeis. <p/>
+<p>Sou muito curioso e adoro aprender. Considero a comunicação um dos meus pontos mais fortes, além do foco e do bom relacionamento em equipe. </p>
 
 <a href="https://www.linkedin.com/in/miguel-inacio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<section>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
+</section>
 <hr>
 
 <h3>Base</h3>
@@ -44,6 +46,7 @@ Sou muito curioso e adoro aprender. Considero a comunicação um dos meus pontos
 <hr>
 <section>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel-inacio&theme=merko" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-inacio&theme=merko&layout=compact" />
 </section>
 <hr>
 
