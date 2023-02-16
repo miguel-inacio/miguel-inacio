@@ -4,6 +4,7 @@
 <p>Sou muito curioso e adoro aprender. Considero a comunicação um dos meus pontos mais fortes, além do foco e do bom relacionamento em equipe. </p>
 
 <a href="https://www.linkedin.com/in/miguel-inacio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:miguel.angelo.inacio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <section>
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
 </section>
