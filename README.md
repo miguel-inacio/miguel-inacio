@@ -1,4 +1,4 @@
-<h1>Miguel Inácio - Desenvolvedor Web Full Stack Jr</h1>
+<h1>Miguel Inácio - Desenvolvedor Web Back-End</h1>
 
 <p>Estudando desenvolvimento web na Trybe, no processo de transição de carreira, depois de concluir graduação em Jornalismo. Nos últimos meses, tenho estudado JavaScript, HTML, CSS, React, TypeScript e Express, além de soft skills e conceitos de metodologias ágeis. <p/>
 <p>Sou muito curioso e adoro aprender. Considero a comunicação um dos meus pontos mais fortes, além do foco e do bom relacionamento em equipe. </p>
