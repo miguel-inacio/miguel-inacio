@@ -1,6 +1,6 @@
 <h1>Miguel Inácio - Desenvolvedor Web Back-End</h1>
 
-<p>Estudando desenvolvimento web na Trybe, no processo de transição de carreira, depois de concluir graduação em Jornalismo. Nos últimos meses, tenho estudado JavaScript, HTML, CSS, React, TypeScript e Express, além de soft skills e conceitos de metodologias ágeis. <p/>
+<p>Estudando desenvolvimento web na Trybe, no processo de transição de carreira, depois de concluir graduação em Jornalismo. Nos últimos meses, tenho estudado JavaScript, Node, TypeScript e Express, além de React, HTML, CSS, soft skills e conceitos de metodologias ágeis. <p/>
 <p>Sou muito curioso e adoro aprender. Considero a comunicação um dos meus pontos mais fortes, além do foco e do bom relacionamento em equipe. </p>
 
 <a href="https://www.linkedin.com/in/miguel-inacio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,15 +17,6 @@
   </section>
 <hr>
 
-<h3>Front-End</h3><br>
-  <section>
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </section>
-<hr>
-
 <h3>Back-End</h3><br>
   <section>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -34,6 +25,15 @@
     <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> 
+  </section>
+<hr>
+
+<h3>Front-End</h3><br>
+  <section>
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </section>
 <hr>
 
