@@ -5,7 +5,7 @@
 
 <a href="https://www.linkedin.com/in/miguel-inacio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:miguel.angelo.inacio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<section>
+<section align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
 </section>
 <hr>
