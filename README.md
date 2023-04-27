@@ -1,7 +1,10 @@
 <h1>Miguel Inácio - Desenvolvedor Web Back-End</h1>
 
-<p>Estudando desenvolvimento web na Trybe, no processo de transição de carreira, depois de concluir graduação em Jornalismo. Nos últimos meses, tenho estudado JavaScript, Node, TypeScript e Express, além de React, HTML, CSS, soft skills e conceitos de metodologias ágeis. <p/>
-<p>Sou muito curioso e adoro aprender. Considero a comunicação um dos meus pontos mais fortes, além do foco e do bom relacionamento em equipe. </p>
+<p>A curiosidade, resolver problemas e as possibilidades diferentes de fazer a mesma coisa me puxaram para a tecnologia! Estou desenvolvendo com foco de estudo em Python, passando por ferramentas de raspagem de dados, análise de complexidade de código e tenho planos para estudar outros frameworks e bibliotecas da linguagem, como Pandas e Django.
+
+Quero trabalhar em uma empresa que valorize a colaboração, diversidade e transparência para que eu possa seguir aprendendo e crescendo como desenvolvedor. Também desejo ajudar a mudar o mundo através da tecnologia, contribuir para projetos relevantes e trabalhar com uma equipe engajada e motivada.
+
+Nos últimos meses, atuei com projetos utilizando: JavaScript, NodeJS, Express, TypeScript, programação orientada a objetos, Python, HTML, CSS, React, ContextAPI, Redux, MySQL, MongoDB, Docker, Jest, Chai, Sinon, Mocha, Sequelize, Mongoose, MSC, TDD, BDD, DDD e SOLID além de soft skills e conceitos de metodologias ágeis. </p>
 
 <a href="https://www.linkedin.com/in/miguel-inacio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:miguel.angelo.inacio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
